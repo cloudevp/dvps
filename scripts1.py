@@ -1,2 +1,3 @@
 this is the test
-for learning git hub
+for learning Git hub
+and implementing some codes
